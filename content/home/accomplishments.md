@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 37  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
 subtitle = ""
@@ -19,33 +19,36 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Applied Machine Learning in Python"
   organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/9EG8SDQ967FK"
+  date_start = "2019-02-07"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  title = "IN PROGRESS: Understanding and Visualizing Data with Python"
+  organization = "Coursera"
+  certificate_url = "https://www.coursera.org/learn/understanding-visualization-data"
+  date_start = "2019-05-21"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
   description = ""
+
+[[item]]
+  title = "Data Science Ethics"
+  organization = "Coursera"
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/6ZKWUJNPKM2N"
+  date_start = "2019-02-21"
+  date_end = ""
+  description = ""
+
+[[item]]
+  title = "Applied Plotting, Charting & Data Representation in Python"
+  organization = "Coursera"
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/FPMB4SMTEQKD"
+  date_start = "2019-01-01"
+  date_end = ""
+  description = ""
+
 
 +++
